@@ -1,0 +1,28 @@
+name: Wooldridge Custom Woodturning
+favicon: null
+layout_spectrum: 0.6128188367001712
+typography_spectrum: 0.13960127579048276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9294736369047314
+  lightness: 0.17729070340283215
+  saturation: 0.553021838888526
+  rhythmicContrast: 0.8016378856264055
+purpose: []
