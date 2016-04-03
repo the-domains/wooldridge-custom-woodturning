@@ -35,6 +35,6 @@ color:
     - '#A0918C'
   brandStrength: 0.875
   lightness: 0.125
-  saturation: 0.25
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
